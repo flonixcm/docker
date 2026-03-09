@@ -2,7 +2,9 @@
 
 ## 🎯 Objective
 In this lab, every student will design and **build their own Docker image**, publish it to **Docker Hub or GitHub Packages**, and then run a container from that image.  
-Each container will live in a **neighborhood (Docker network)** and will log its activity into the shared **La Biblioteca del Pueblo** volume.  
+Each container will live in a **neighborhood (Docker network)** and will log its activity into the shared 
+
+**La Biblioteca del Pueblo** volume.  
 Additionally, students must collaborate using **Git trunk-based development** with a shared repository, where each student contributes their own component inside a dedicated folder.
 
 The goal is to learn **networks**, **volumes**, **image publishing**, and **team collaboration with Git**, while being creative with your container design.
